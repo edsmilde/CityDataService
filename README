@@ -1,0 +1,22 @@
+
+# Setup
+
+## Requirements
+
+Python 3
+
+## Installation of dependencies
+
+`./install.zsh`
+
+# Usage
+
+## Starting the service
+
+`./run.zsh` starts the service on localhost port 8080.
+
+## Example get request:
+
+http://localhost:8080/city/Seattle
+
+
